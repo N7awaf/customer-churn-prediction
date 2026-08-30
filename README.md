@@ -28,6 +28,3 @@ Telco Customer Churn dataset (IBM/Kaggle, public).
 
 ## Stack
 Python, scikit-learn, XGBoost, TensorFlow/Keras, pandas, seaborn, plotly
-
-## Team
-Academic group project (2 members) — Nawaf Bamazroo & Mohammed Alshammari
